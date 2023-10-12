@@ -5,12 +5,11 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "next": "latest"
   }
 }
